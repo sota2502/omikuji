@@ -1,1 +1,1 @@
-# omikuji
+# omikuji## How to run```ruby app.rb```
